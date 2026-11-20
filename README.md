@@ -1,22 +1,23 @@
 
 **# Spotify **
 **Name : Ambika Rastogi**
-githum repository link :
+
+githubrepository link :https://github.com/AmbikaRastogi/Spotify-Catalogue
 
 
 **## Objective**
 To analyse a Spotify tracks dataset and find the most popular songs, artists and genres, and how audio features relate to popularity.
 
-## Technology
+**## Technology**
 - Python 3
 - pandas
 - numpy
 
-## Dataset
+**## Dataset**
 Spotify Tracks Dataset (Kaggle, by maharshipandya)
 https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
-## How to Run
+**## How to Run**
 1. Install the libraries: `pip install pandas numpy`
 2. Keep `dataset.csv` in the same folder as the script.
 3. Run: `python medium_spotify_project.py`
